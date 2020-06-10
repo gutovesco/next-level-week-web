@@ -201,3 +201,8 @@
     background: #E1FAEC;
     border: 2px solid #34CB79;
   }
+
+  .items-grid li:hover {
+    background: #E1FAEC;
+    border: 2px solid #34CB79;
+  }
