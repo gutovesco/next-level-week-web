@@ -1,7 +1,7 @@
 import React from 'react'
 import './styles.css'
 import logo from '../assets/logo.svg'
-import { FiLogIn } from 'react-icons/fi'
+import {FiLogIn} from 'react-icons/fi'
 import {Link} from  'react-router-dom'
 
 const Home = () => {
